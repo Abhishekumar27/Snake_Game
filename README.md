@@ -1,2 +1,4 @@
 # Snake_Game
-Snake game using tkinter liberary in python.
+Snake game using Turtle library in python.
+<br>
+Author - Abhishek Kumar.
